@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "星巴克（海洋中心店）",
+        "下载速度": "8.09 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5916946311",
+        "参考价格": "24-45 元",
+        "热拿铁": "28元",
+        "评论 (@niklasberglund)": "网速还可以，人不太多",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.546690,
+          104.064709
+        ]
+      }
+    }
+  ]
+}
